@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="755" height="175" src="assets/images/Logo.png">
+	<img width="755" height="175" src="Logo.png">
 </p>
 # Galcier-Client
 Glacier Discord Server (none lol)
