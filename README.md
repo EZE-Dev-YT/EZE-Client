@@ -5,8 +5,9 @@
 # Galcier-Client
 
 ## Info
-Glacier Discord Server (none lol)
 Glacier Client Release Page
+Glacier Discord Server (none lol)
+https://www.youtube.com/channel/UCx6JmvxqakKXyr_FvsraQQw
 
 Glacier Client is a MCBE Utility Mod for the Windows 10 Edition, this tool is meant for enhancing users gameplay. I do not condone nor are we responsible for illegitimate use by our users. it is not my fault if u get banned or raided or something u where supposed to read this and if u didnt well ur done for
 
