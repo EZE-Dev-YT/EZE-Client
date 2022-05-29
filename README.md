@@ -5,17 +5,17 @@
 # Galcier-Client
 
 ## Info
-Glacier Client Release Page
+EZE Client Release Page
 
-Glacier Discord Server (none lol)
+EZE Discord Server (none lol)
 
 YT Channel:https://www.youtube.com/channel/UCx6JmvxqakKXyr_FvsraQQw
 
-Glacier Client is a MCBE Utility Mod for the Windows 10 Edition, this tool is meant for enhancing users gameplay. I do not condone nor are we responsible for illegitimate use by our users. it is not my fault if u get banned or raided or something u where supposed to read this and if u didnt well ur done for
+EZE Client is a MCBE Utility Mod for the Windows 10 Edition, this tool is meant for enhancing users gameplay. I do not condone nor are we responsible for illegitimate use by our users. it is not my fault if u get banned or raided or something u where supposed to read this and if u didnt well ur done for
 
 ## Credits
 
-Glacier Cleint  is a fork of the Horion MCBE Utility Mod.
+EZE Cleint  is a fork of the Horion MCBE Utility Mod.
 
 Credits - Horion Developers for allowing use of the public horion source code.
 
