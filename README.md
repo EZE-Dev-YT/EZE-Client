@@ -7,7 +7,7 @@
 ## Info
 EZE Client Release Page
 
-EZE Discord Server (none lol)
+EZE Discord Server https://discord.gg/h9WrD6rxE2
 
 YT Channel:https://www.youtube.com/channel/UCx6JmvxqakKXyr_FvsraQQw
 
