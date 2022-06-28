@@ -1,0 +1,82 @@
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\bin\Release\EZ Client Injector.exe.config
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\bin\Release\EZ Client Injector.exe
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\bin\Release\EZ Client Injector.pdb
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ Client Injector.csproj.AssemblyReference.cache
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ Client Injector.csproj.SuggestedBindingRedirects.cache
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ_Client_Injector.Form1.resources
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ_Client_Injector.Properties.Resources.resources
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ Client Injector.csproj.GenerateResource.cache
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ Client Injector.csproj.CoreCompileInputs.cache
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ Client Injector.exe
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ Client Injector.pdb
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\bin\Release\Guna.UI2.dll
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ Client Injector.csproj.CopyComplete
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ_Client_Injector.DashboardForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ_Client_Injector.AboutForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ_Client_Injector.CosmeticsForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ_Client_Injector.SettingsForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\obj\Release\EZ_Client_Injector.VersionsForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\bin\Release\DiscordRPC.dll
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\bin\Release\Newtonsoft.Json.dll
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\bin\Release\System.ValueTuple.dll
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\bin\Release\DiscordRPC.pdb
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\bin\Release\DiscordRPC.xml
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\bin\Release\Newtonsoft.Json.xml
+C:\Users\MadCusBadYT\Desktop\EZE\EZ Client Injector\bin\Release\System.ValueTuple.xml
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\bin\Release\EZ Client Injector.exe.config
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\bin\Release\EZ Client Injector.exe
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\bin\Release\EZ Client Injector.pdb
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\bin\Release\DiscordRPC.dll
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\bin\Release\Guna.UI2.dll
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\bin\Release\Newtonsoft.Json.dll
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\bin\Release\System.ValueTuple.dll
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\bin\Release\DiscordRPC.pdb
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\bin\Release\DiscordRPC.xml
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\bin\Release\Newtonsoft.Json.xml
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\bin\Release\System.ValueTuple.xml
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ Client Injector.csproj.AssemblyReference.cache
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ Client Injector.csproj.SuggestedBindingRedirects.cache
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ_Client_Injector.AboutForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ_Client_Injector.CosmeticsForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ_Client_Injector.DashboardForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ_Client_Injector.Form1.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ_Client_Injector.Properties.Resources.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ_Client_Injector.SettingsForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ_Client_Injector.VersionsForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ Client Injector.csproj.GenerateResource.cache
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ Client Injector.csproj.CoreCompileInputs.cache
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ Client Injector.csproj.CopyComplete
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ Client Injector.exe
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZ Client Injector\obj\Release\EZ Client Injector.pdb
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\EZ Client Injector.exe.config
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\EZ Client Injector.exe
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\EZ Client Injector.pdb
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\BetterFolderBrowser.dll
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\DiscordRPC.dll
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\DotNetZip.dll
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\Guna.UI2.dll
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\Newtonsoft.Json.dll
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\Octokit.dll
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\System.ValueTuple.dll
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\BetterFolderBrowser.xml
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\DiscordRPC.pdb
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\DiscordRPC.xml
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\DotNetZip.pdb
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\DotNetZip.xml
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\Newtonsoft.Json.xml
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\Octokit.xml
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\bin\Release\System.ValueTuple.xml
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ Client Injector.csproj.AssemblyReference.cache
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ Client Injector.csproj.SuggestedBindingRedirects.cache
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ_Client_Injector.AboutForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ_Client_Injector.CosmeticsForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ_Client_Injector.DashboardForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ_Client_Injector.Form1.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ_Client_Injector.Properties.Resources.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ_Client_Injector.SettingsForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ_Client_Injector.VersionsForm.resources
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ Client Injector.csproj.GenerateResource.cache
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ Client Injector.csproj.CoreCompileInputs.cache
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ Client Injector.csproj.CopyComplete
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ Client Injector.exe
+C:\Users\MadCusBadYT\Desktop\EZE Project\EZE Client Injector\obj\Release\EZ Client Injector.pdb
