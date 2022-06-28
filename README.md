@@ -2,7 +2,7 @@
 	<img width="755" height="175" src="Logo.png">
 </p>
 
-# Galcier-Client
+# EZE-Client
 
 ## Info
 EZE Client Release Page
